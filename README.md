@@ -4,7 +4,7 @@ My name is Jacky, but you can also call me Jordles. Im a software developer with
 
 I'm currently taking a bootcamp by 100Devs, while practicing code everyday on LeetCode & CodeWars, among other helpful resources online. You can also check out my LinkedIn and my other socials through my personal portfolio!
 
-http://jordles.github.io/
+http://jordles.github.io/ <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jordles&theme=blood)](https://git.io/streak-stats)
 
