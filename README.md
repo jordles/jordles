@@ -5,7 +5,7 @@ My name is Jacky, but you can also call me Jordles. Im a software developer with
 I'm currently taking a bootcamp by 100Devs, while practicing code everyday on LeetCode & CodeWars, among other helpful resources online. You can also check out my LinkedIn and my other socials through my personal portfolio!
 
 http://jordles.github.io/
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordles&show_icons=true&theme=gradient)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordles)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordles)](https://github.com/anuraghazra/github-readme-stats)
