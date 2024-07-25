@@ -1,8 +1,8 @@
 ### Hi there👋 
 
-My name is Jacky, but you can also call me Jordles. Im a software engineer with a focus on fullstack development.
+My name is Jacky, but you can also call me Jordles. Im a software engineer @ 100Devs with a focus on fullstack development.
 
-I'm currently taking a bootcamp by 100Devs, while practicing code everyday on LeetCode & CodeWars, among other helpful resources online. You can also check out my LinkedIn and my other socials through my personal portfolio!
+You'll find my projects and assignments here, including my code everyday from LeetCode & CodeWars, among other helpful resources online. You can also check out my LinkedIn and my other socials through my personal portfolio!
 
 http://jordles.github.io/ <br>
 
