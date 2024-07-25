@@ -10,6 +10,7 @@ You'll find my projects and assignments here, including my code everyday from Le
 <a href="https://linkedin.com/in/jacky-yang-6b9637194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacky-yang-6b9637194" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jordles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jordles" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/jordles" target="blank" ><img align="center" src="https://avatars.githubusercontent.com/u/5387632?s=200&v=4" alt="jordles" height="40" width="40" /></a>
+<a href="https://instagram.com/jordles_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordles_art" height="30" width="40" /></a>
 </p>
 
 <h3 align="center" >http://jordles.github.io/ </h3>
