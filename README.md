@@ -23,10 +23,10 @@ You'll find my projects and assignments here, including my code everyday from Le
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=jordles&hide_border=true&background=45%2CEBC512%2C59F0FF&ring=EB372B&fire=EB0303&stroke=000000)](https://git.io/streak-stats)
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordles&bg_color=30,ebc512,59f0ff&title_color=000&text_color=000&show_icons=true&rank_icon=github&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordles&bg_color=30,ebc512,59f0ff&title_color=000&text_color=000&layout=donut-vertical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordles&bg_color=30,ebc512,59f0ff&title_color=000&text_color=000&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
