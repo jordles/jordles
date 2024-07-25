@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacky (Jordles)</h1>
-<h3 align="center">A fullstack developer based on LA</h3>
+<h3 align="center">A software engineer @100Devs - based in LA</h3>
 
 You'll find my projects and assignments here, including my code everyday from LeetCode & CodeWars, among other helpful resources online. You can also check out my LinkedIn and my other socials through my personal portfolio!
 
